@@ -1,4 +1,4 @@
-## emplate project for Nucelo-F767zi using Preemake5
+## Template project for Nucelo-F767zi using Preemake5
 
 This project uses Premake5 to generate Makefiles. Note that Premake5 does not support Ninja, so you cannot generate Ninja build files.
 
