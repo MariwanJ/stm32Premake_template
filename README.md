@@ -6,6 +6,11 @@ Another known issue is that the make clean command does not remove the build fol
 
 You may also want to include flags in the mcu_stm32f767.lua file. For any new microcontroller, you should create a new configuration file where you define the values suitable for your specific microcontroller.
 
+### To compile:
+```
+premake5 gmake 
+make 
+```
 
 ### Note:
 Use it at your own risk. 
